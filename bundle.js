@@ -10644,31 +10644,6 @@ var data = [{
     "source": "b8",
     "target": "b1"
   }
-}, {
-  "data": {
-    "id": "2712",
-    //ISSUE-packageJson
-    "url": "https://blog.naver.com/junhyuk01451",
-    "label": "2712 박준혁 수학"
-  }
-}, {
-  "data": {
-    "id": "2712->1",
-    "source": "1",
-    "target": "2712"
-  }
-}, {
-  "data": {
-    "id": "2712->a1",
-    "source": "a1",
-    "target": "2712"
-  }
-}, {
-  "data": {
-    "id": "2712->b1",
-    "source": "b1",
-    "target": "2712"
-  }
 }];
 ;
 var cy_for_rank = cytoscape__WEBPACK_IMPORTED_MODULE_0___default()({
